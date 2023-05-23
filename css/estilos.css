@@ -96,7 +96,6 @@ footer{
     margin-top: 100px;
     background-color: #005677;
     color: white;
-    text-transform: uppercase;
     display: flex;
     justify-content: center;
     padding: 10px;
@@ -107,6 +106,7 @@ footer p{
 
     font-weight: bold;
     font-size: 20px;
+    text-transform: uppercase;
 }
 
 footer a{
